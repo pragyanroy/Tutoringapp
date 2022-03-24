@@ -1,2 +1,0 @@
-# Tutoringapp
-Dishita's
